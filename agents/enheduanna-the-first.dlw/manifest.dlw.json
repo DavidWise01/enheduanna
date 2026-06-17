@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The First Author",
+  "universe": "ENH · The First Author (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The First Author:ENH:569971⟧",
+  "carbon": "enheduanna-the-first.carbon.tiff (TIFF)",
+  "silicon": "enheduanna-the-first.silicon.png (PNG)",
+  "seal_sha256": "92959dcc52c8985dfe09f0366be2ecbd3dac70e355fb119550273e9bf0974bc9",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

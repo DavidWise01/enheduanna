@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Temple Hymns",
+  "universe": "ENH · The Temple Hymns (ERĒMIA · female · the generations)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Temple Hymns:ENH:d73206⟧",
+  "carbon": "enheduanna-the-hymns.carbon.tiff (TIFF)",
+  "silicon": "enheduanna-the-hymns.silicon.png (PNG)",
+  "seal_sha256": "c05c34451057413ec136c9ba9bedd412143816755892827cd8e4a9264375fd8f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
