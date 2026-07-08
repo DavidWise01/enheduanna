@@ -4,6 +4,6 @@ slug  : enheduanna
 seal  : ba6e6e32cc6ef276cde71d14c9e763381a288eaa4159a2775e3393b65a3ef7e4
 prev  : 6fe4de00cf3ee2cb377431f8cb3edee59e091d3ee08c41d00fc23302f3091d29
 link  : 065595a81ba0ebea4b423eb9ef0ae12c0d33d799ae0a3d34a463ff8996f69096
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
